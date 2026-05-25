@@ -1,4 +1,4 @@
-# customer-funnel-analysis-python
+
 # Customer Funnel Analysis using Python
 
 ## Project Overview
