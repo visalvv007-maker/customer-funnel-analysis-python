@@ -49,7 +49,7 @@ The analysis helps identify:
 ## Project Screenshot
 
 ![Funnel Analysis](<img width="1144" height="377" alt="{4474202D-209C-49F2-B73B-B04A88DB3555}" src="https://github.com/user-attachments/assets/318a84a4-1413-4906-9030-610381e20a5b" />
-(<img<img width="761" height="517" alt="{7397874C-2E3F-4750-BF37-51A10976948C}" src="https://github.com/user-attachments/assets/9ff8014f-5a85-4a77-8a8c-2ef84c916db3" />
+(<img width="761" height="517" alt="{7397874C-2E3F-4750-BF37-51A10976948C}" src="https://github.com/user-attachments/assets/9ff8014f-5a85-4a77-8a8c-2ef84c916db3" />
 
 )
 
